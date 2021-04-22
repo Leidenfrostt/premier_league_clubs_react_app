@@ -1,0 +1,23 @@
+html {
+  background-image: url("http://127.0.0.1:8000/media/logo.jpg");
+  background-size: cover;
+  padding: 50px;
+}
+
+* {
+  color:springgreen;
+}
+
+img {
+  margin-right: 50px;
+  margin-bottom: 50px;
+}
+
+.title {
+  text-align: center;
+}
+
+.hint {
+  text-align: right;
+}
+
